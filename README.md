@@ -1,2 +1,4 @@
 # LIFI-Project
 LiFi Based Data Transfer System for Audio,Image and Text.
+Credits:MBATechMeds
+Guidance:Prof.Muthu Prabhu
